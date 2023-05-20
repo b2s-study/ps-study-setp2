@@ -1,5 +1,4 @@
 package Programmers.kingmingseo;
-
 public class P140108 {
     public int solution(String s){
         int answer = 0;
@@ -28,6 +27,5 @@ public class P140108 {
         System.out.println(divideString.solution("banana"));
         System.out.println(divideString.solution("abracadabra"));    // 6
         System.out.println(divideString.solution("aaabbaccccabba"));
-
     }
 }
